@@ -27,13 +27,17 @@ The team members collaborated seamlessly, with some focusing on programming the 
      
 </p>
 
+![barra_pollo_arma](https://github.com/MethodCa/Wack-a-shoot/assets/15893276/fd8b2154-4453-4f4a-9790-c677994cf24f)
 
+![barra_energia](https://github.com/MethodCa/Wack-a-shoot/assets/15893276/29e705d3-a109-45db-b95b-bb075fbe7ece)
 
+![ICON_GAME_WACK-A-SHOOT](https://github.com/MethodCa/Wack-a-shoot/assets/15893276/b43e91f8-b4ee-4c98-96ae-598639a11492)
 
 # Deadline - Crunch Time and Polishing
 UI elements, designed with a playful and colourful aesthetic using Adobe Illustrator, were added to enhance the overall user experience. The team worked tirelessly to squash bugs, refine gameplay mechanics, and inject an extra dose of humour into every element of the game.
 
 With minutes to spare, the WebGL version of "Wack-a-shoot" was uploaded to itch.io, making it accessible to players around the world. The team submitted their project to the Global Game Jam website, along with a brief description of their journey and the hilarious features players could expect.
+
 
 
 # Current Status
