@@ -4,3 +4,4 @@ Gear up for a laughter-filled rampage in "Wack-a-Shoot," armed with a rubber chi
 https://untitledpixel.itch.io/wack-a-shoot
 
 ![dancing_cactus](https://github.com/MethodCa/Wack-a-shoot/assets/15893276/e3d6f35d-3b47-4cf9-8eea-f68100cf3143)!
+![ezgif-1-7c7504806c](https://github.com/MethodCa/Wack-a-shoot/assets/15893276/da09447d-40fb-45a6-b4f3-d5579485db71)
