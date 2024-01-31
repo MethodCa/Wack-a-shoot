@@ -33,7 +33,7 @@ UI elements, designed with a playful and colourful aesthetic using Adobe Illustr
 
 With minutes to spare, the WebGL version of "Wack-a-shoot" was uploaded to itch.io, making it accessible to players around the world. The team submitted their project to the Global Game Jam website, along with a brief description of their journey and the hilarious features players could expect.
 <p align="center">
-     <img src="https://github.com/MethodCa/Wack-a-shoot/assets/15893276/fd8b2154-4453-4f4a-9790-c677994cf24f" alt="" width="48" >
+     <img src="https://github.com/MethodCa/Wack-a-shoot/assets/15893276/fd8b2154-4453-4f4a-9790-c677994cf24f" alt="" width="400" >
 </p>
 <p align="center">
      <img src="" alt="">
