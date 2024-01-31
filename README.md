@@ -7,7 +7,8 @@ Gear up for a laughter-filled rampage in "Wack-a-Shoot," armed with a rubber chi
    
 </p>
 
-Wack-a-shoot was developed for the 2024 Global Gamejam, the Jam theme was Make me laugh!.
+Wack-a-shoot was developed for the 2024 Global Gamejam, the Jam theme was Make me laugh!
+https://globalgamejam.org/games/2024/wack-shoot-0
 
 
 https://untitledpixel.itch.io/wack-a-shoot
