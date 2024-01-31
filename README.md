@@ -28,7 +28,7 @@ The team members collaborated seamlessly, with some focusing on programming the 
 
 
 # Deadline - Crunch Time and Polishing
-UI elements, designed with a playful and colourful aesthetic using Adobe Illustrator[^4], were added to enhance the overall user experience. The team worked tirelessly to squash bugs, refine gameplay mechanics, and inject an extra dose of humour into every element of the game.
+UI elements, designed with a playful and colourful aesthetic using Adobe Illustrator, were added to enhance the overall user experience. The team worked tirelessly to squash bugs, refine gameplay mechanics, and inject an extra dose of humour into every element of the game.
 
 With minutes to spare, the WebGL version of "Wack-a-shoot" was uploaded to itch.io, making it accessible to players around the world. The team submitted their project to the Global Game Jam website, along with a brief description of their journey and the hilarious features players could expect.
 <p align="center">
@@ -42,7 +42,6 @@ As of today, "Wack-a-shoot" can be played on [itch.io](https://untitledpixel.itc
 The Global [Game Jam page](https://globalgamejam.org/games/2024/wack-shoot-0) showcases the initial development journey and the humorous essence that the Untitled Pixel team injected into their creation during that memorable 2024 Global Game Jam.
 
 [^1]: [Global Gamejam](https://globalgamejam.org/) The Global Game Jam® (GGJ) is a 501(c)(3) nonprofit registered in the state of California and our mission is to empower all individuals worldwide to learn, experiment, and create together through the medium of games in a safe and welcoming environment.
-[^2]:
-[^3]:
-[^4]:
+[^2]:[Blender](https://www.blender.org/) Free and open source 3D creation suite.
+[^3]:[Unity](https://unity.com/) Platform for creating and operating interactive, real-time 3D (RT3D) content
 
