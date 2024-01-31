@@ -8,7 +8,14 @@ Gear up for a laughter-filled rampage in "Wack-a-Shoot," armed with a rubber chi
 </p>
 
 # The Journey - Brainstorming and Conceptualization
-The untitled Pixel dev team got together in New Brunswick, Canada, eagerly anticipating the start of the 2024 Global Game Jam. With the theme "Make me laugh" announced, the team brainstormed ideas that would bring joy and laughter to players. After a lively debate, they settled on the concept of "Wack-a-shoot,", and "Wacky" elements, a quirky and humorous game that combines elements of wack-a-mole with shooting targets.
+Our dev team - Untitled Pixel - got together in New Brunswick, Canada, eagerly anticipating the start of the 2024 Global Game Jam. With the theme "Make me laugh" announced, our team brainstormed ideas that would bring joy and laughter to players. After a lively debate, we settled on the concept of "Wack-a-shoot,", and "Wacky" elements, a quirky and humorous game that combines elements of wack-a-mole with shooting targets.
+
+Our team members:
+Sergio Rueda - Lead Programmer, 3D Artist and Animator
+Rosibel Useda - Programmer, 3D Artist
+Julian Silva - Programmer
+Oscar Quintero - UI Artist
+Valentina Arias - Sound Engineer
 
 # Development Kick-off
 Armed with enthusiasm and a clear concept, the team began the development process. They chose Unity as their game engine, leveraging its versatility and ease of use. The 3D assets and animations were crafted in Blender, giving life to a cast of whimsical characters that would pop up and dance around in unexpected ways.
