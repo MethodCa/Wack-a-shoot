@@ -7,7 +7,7 @@ Gear up for a laughter-filled rampage in "Wack-a-Shoot," armed with a rubber chi
 </p>
 
 # The Journey - Brainstorming and Conceptualization
-Our dev team - Untitled Pixel - got together in New Brunswick, Canada, eagerly anticipating the start of the 2024 Global Game Jam. With the theme "Make me laugh" announced, our team brainstormed ideas that would bring joy and laughter to players. After a lively debate, we settled on the concept of "Wack-a-shoot,", and "Wacky" elements, a quirky and humorous game that combines elements of wack-a-mole with shooting targets.
+Our dev team - Untitled Pixel - got together in New Brunswick, Canada, eagerly anticipating the start of the 2024 Global Game Jam[^1]. With the theme "Make me laugh" announced, our team brainstormed ideas that would bring joy and laughter to players. After a lively debate, we settled on the concept of "Wack-a-shoot,", and "Wacky" elements, a quirky and humorous game that combines elements of wack-a-mole with shooting targets.
 
 Our team members:
 - Sergio Rueda - Lead Programmer, 3D Artist and Animator
@@ -40,4 +40,6 @@ With minutes to spare, the WebGL version of "Wack-a-shoot" was uploaded to itch.
 
 As of today, "Wack-a-shoot" can be played on [itch.io](https://untitledpixel.itch.io/wack-a-shoot).
 The Global [Game Jam page](https://globalgamejam.org/games/2024/wack-shoot-0) showcases the initial development journey and the humorous essence that the Untitled Pixel team injected into their creation during that memorable 2024 Global Game Jam.
+
+[^1]: [Global Gamejam](https://globalgamejam.org/) Open-source implementation of the Microsoft XNA Framework that supports all gaming platforms. 
 
