@@ -4,7 +4,6 @@ Gear up for a laughter-filled rampage in "Wack-a-Shoot," armed with a rubber chi
 
 <p align="center">
      <img src="https://github.com/MethodCa/Wack-a-shoot/assets/15893276/1407aed3-f278-4176-9f7d-620905ea77e9" alt="Wack-A-Shoot">
-   
 </p>
 
 # The Journey - Brainstorming and Conceptualization
@@ -18,9 +17,18 @@ Our team members:
 - Valentina Arias - Sound Engineer
 
 # Development Kick-off
-Armed with enthusiasm and a clear concept, the team began the development process. They chose Unity as their game engine, leveraging its versatility and ease of use. The 3D assets and animations were crafted in Blender, giving life to a cast of whimsical characters that would pop up and dance around in unexpected ways.
+Armed with enthusiasm and a clear concept, our team began the development process. We chose Unity as the game engine, leveraging its versatility and ease of use. The 3D assets and animations were crafted in Blender, giving life to a cast of whimsical characters that would pop up and dance around in unexpected ways.
 
 The team members collaborated seamlessly, with some focusing on programming the game mechanics while others worked on the delightful animations. Unity's compatibility with Blender facilitated a smooth integration of assets, allowing the developers to iterate quickly and fine-tune the interactive and amusing aspects of the game.
+
+<p align="center">
+     <img src="https://github.com/MethodCa/Wack-a-shoot/assets/15893276/1407aed3-f278-4176-9f7d-620905ea77e9" alt="Wack-A-Shoot">
+     
+</p>
+![cactus1](https://github.com/MethodCa/Wack-a-shoot/assets/15893276/4fd34da2-b88a-4fc2-a012-4a809dfe3cb1)
+![inflatable1](https://github.com/MethodCa/Wack-a-shoot/assets/15893276/713e7235-9c02-4f31-82f7-f34a9f5dea6f)
+
+
 
 # Deadline - Crunch Time and Polishing
 As the deadline loomed, the Untitled Pixel team entered crunch time. UI elements, designed with a playful and colorful aesthetic using Adobe Illustrator, were added to enhance the overall user experience. The team worked tirelessly to squash bugs, refine gameplay mechanics, and inject an extra dose of humor into every element of the game.
