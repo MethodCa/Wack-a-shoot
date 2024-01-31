@@ -17,7 +17,7 @@ Our team members:
 - Valentina Arias - Sound Engineer
 
 # Development Kick-off
-Armed with enthusiasm and a clear concept, our team began the development process. We chose Unity as the game engine, leveraging its versatility and ease of use. The 3D assets and animations were crafted in Blender, giving life to a cast of whimsical characters that would pop up and dance around in unexpected ways.
+Armed with enthusiasm and a clear concept, our team began the development process. We chose Unity[^2] as the game engine, leveraging its versatility and ease of use. The 3D assets and animations were crafted in Blender[^3], giving life to a cast of whimsical characters that would pop up and dance around in unexpected ways.
 
 The team members collaborated seamlessly, with some focusing on programming the game mechanics while others worked on the delightful animations. Unity's compatibility with Blender facilitated a smooth integration of assets, allowing the developers to iterate quickly and fine-tune the interactive and amusing aspects of the game.
 
@@ -28,7 +28,7 @@ The team members collaborated seamlessly, with some focusing on programming the 
 
 
 # Deadline - Crunch Time and Polishing
-UI elements, designed with a playful and colourful aesthetic using Adobe Illustrator, were added to enhance the overall user experience. The team worked tirelessly to squash bugs, refine gameplay mechanics, and inject an extra dose of humour into every element of the game.
+UI elements, designed with a playful and colourful aesthetic using Adobe Illustrator[^4], were added to enhance the overall user experience. The team worked tirelessly to squash bugs, refine gameplay mechanics, and inject an extra dose of humour into every element of the game.
 
 With minutes to spare, the WebGL version of "Wack-a-shoot" was uploaded to itch.io, making it accessible to players around the world. The team submitted their project to the Global Game Jam website, along with a brief description of their journey and the hilarious features players could expect.
 <p align="center">
@@ -41,5 +41,8 @@ With minutes to spare, the WebGL version of "Wack-a-shoot" was uploaded to itch.
 As of today, "Wack-a-shoot" can be played on [itch.io](https://untitledpixel.itch.io/wack-a-shoot).
 The Global [Game Jam page](https://globalgamejam.org/games/2024/wack-shoot-0) showcases the initial development journey and the humorous essence that the Untitled Pixel team injected into their creation during that memorable 2024 Global Game Jam.
 
-[^1]: [Global Gamejam](https://globalgamejam.org/) Open-source implementation of the Microsoft XNA Framework that supports all gaming platforms. 
+[^1]: [Global Gamejam](https://globalgamejam.org/) The Global Game Jam® (GGJ) is a 501(c)(3) nonprofit registered in the state of California and our mission is to empower all individuals worldwide to learn, experiment, and create together through the medium of games in a safe and welcoming environment.
+[^2]:
+[^3]:
+[^4]:
 
