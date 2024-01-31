@@ -14,3 +14,7 @@ https://untitledpixel.itch.io/wack-a-shoot
 
 ![ezgif-1-4262c19592](https://github.com/MethodCa/Wack-a-shoot/assets/15893276/7de06895-ebdb-478e-8154-a9338d25c618)![ezgif-1-7c7504806c](https://github.com/MethodCa/Wack-a-shoot/assets/15893276/da09447d-40fb-45a6-b4f3-d5579485db71)
 
+Current Status
+
+As of today, "Wack-a-shoot" can still be played on itch.io at https://untitledpixel.itch.io/wack-a-shoot. The Global Game Jam page https://globalgamejam.org/games/2024/wack-shoot-0 showcases the initial development journey and the humorous essence that the Untitled Pixel team injected into their creation during that memorable 2024 Global Game Jam.
+
