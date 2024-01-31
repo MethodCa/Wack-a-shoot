@@ -38,7 +38,7 @@ With minutes to spare, the WebGL version of "Wack-a-shoot" was uploaded to itch.
 
 # Current Status
 
-As of today, "Wack-a-shoot" can be played on [itch.io](https://untitledpixel.itch.io/wack-a-shoot).
+As of today, "Wack-a-shoot" can be played on [itch.io](https://untitledpixel.itch.io/wack-a-shoot) or downloaded from this [repository](https://github.com/MethodCa/Wack-a-shoot/releases), OSX, Windows and WebGL versions are available for download.
 The Global [Game Jam page](https://globalgamejam.org/games/2024/wack-shoot-0) showcases the initial development journey and the humorous essence that the Untitled Pixel team injected into their creation during that memorable 2024 Global Game Jam.
 
 [^1]: [Global Gamejam](https://globalgamejam.org/) The Global Game Jam® (GGJ) is a 501(c)(3) nonprofit registered in the state of California and our mission is to empower all individuals worldwide to learn, experiment, and create together through the medium of games in a safe and welcoming environment.
