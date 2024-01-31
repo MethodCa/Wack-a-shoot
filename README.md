@@ -21,10 +21,7 @@ Armed with enthusiasm and a clear concept, our team began the development proces
 
 The team members collaborated seamlessly, with some focusing on programming the game mechanics while others worked on the delightful animations. Unity's compatibility with Blender facilitated a smooth integration of assets, allowing the developers to iterate quickly and fine-tune the interactive and amusing aspects of the game.
 
-<p align="center">
-     <img src="https://github.com/MethodCa/Wack-a-shoot/assets/15893276/1407aed3-f278-4176-9f7d-620905ea77e9" alt="Wack-A-Shoot">
-     
-</p>
+
 ![cactus1](https://github.com/MethodCa/Wack-a-shoot/assets/15893276/4fd34da2-b88a-4fc2-a012-4a809dfe3cb1)
 ![inflatable1](https://github.com/MethodCa/Wack-a-shoot/assets/15893276/713e7235-9c02-4f31-82f7-f34a9f5dea6f)
 
