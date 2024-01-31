@@ -35,7 +35,7 @@ With minutes to spare, the WebGL version of "Wack-a-shoot" was uploaded to itch.
      <img src="https://github.com/MethodCa/Wack-a-shoot/assets/15893276/fd8b2154-4453-4f4a-9790-c677994cf24f" alt="" width="600" >
 </p>
 <p align="center">
-     <img src="" alt="https://github.com/MethodCa/Wack-a-shoot/assets/15893276/29e705d3-a109-45db-b95b-bb075fbe7ece" width="600" >
+     <img src="https://github.com/MethodCa/Wack-a-shoot/assets/15893276/29e705d3-a109-45db-b95b-bb075fbe7ece" alt="" width="600" >
 </p>
 
 
