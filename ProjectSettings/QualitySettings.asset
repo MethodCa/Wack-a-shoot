@@ -65,7 +65,7 @@ QualitySettings:
     realtimeReflectionProbes: 0
     billboardsFaceCameraPosition: 0
     vSyncCount: 0
-    realtimeGICPUUsage: 75
+    realtimeGICPUUsage: 25
     lodBias: 2
     maximumLODLevel: 0
     streamingMipmapsActive: 0
