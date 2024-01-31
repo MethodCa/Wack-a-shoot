@@ -7,7 +7,20 @@ Gear up for a laughter-filled rampage in "Wack-a-Shoot," armed with a rubber chi
    
 </p>
 
-Wack-a-shoot was developed for the **[2024 Global Gamejam](https://globalgamejam.org/games/2024/wack-shoot-0)**, the Jam theme was Make me laugh!
+# The Journey - Brainstorming and Conceptualization
+The untitled Pixel dev team got together in New Brunswick, Canada, eagerly anticipating the start of the 2024 Global Game Jam. With the theme "Make me laugh" announced, the team brainstormed ideas that would bring joy and laughter to players. After a lively debate, they settled on the concept of "Wack-a-shoot,", and "Wacky" elements, a quirky and humorous game that combines elements of wack-a-mole with shooting targets.
+
+# Development Kick-off
+Armed with enthusiasm and a clear concept, the team began the development process. They chose Unity as their game engine, leveraging its versatility and ease of use. The 3D assets and animations were crafted in Blender, giving life to a cast of whimsical characters that would pop up and dance around in unexpected ways.
+
+The team members collaborated seamlessly, with some focusing on programming the game mechanics while others worked on the delightful animations. Unity's compatibility with Blender facilitated a smooth integration of assets, allowing the developers to iterate quickly and fine-tune the interactive and amusing aspects of the game.
+
+# Deadline - Crunch Time and Polishing
+As the deadline loomed, the Untitled Pixel team entered crunch time. UI elements, designed with a playful and colorful aesthetic using Adobe Illustrator, were added to enhance the overall user experience. The team worked tirelessly to squash bugs, refine gameplay mechanics, and inject an extra dose of humor into every element of the game.
+
+With minutes to spare, the WebGL version of "Wack-a-shoot" was uploaded to itch.io, making it accessible to players around the world. The team submitted their project to the Global Game Jam website, along with a brief description of their journey and the hilarious features players could expect.
+
+
 
 
 https://untitledpixel.itch.io/wack-a-shoot
