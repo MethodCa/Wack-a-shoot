@@ -23,7 +23,7 @@ The team members collaborated seamlessly, with some focusing on programming the 
 
 <p align="center">
      <img src="https://github.com/MethodCa/Wack-a-shoot/assets/15893276/4fd34da2-b88a-4fc2-a012-4a809dfe3cb1" alt="The minions!">
-     <img src="https://github.com/MethodCa/Wack-a-shoot/assets/15893276/713e7235-9c02-4f31-82f7-f34a9f5dea6f" alt="The Boss">
+     <img src="https://github.com/MethodCa/Wack-a-shoot/assets/15893276/52bab688-d3d1-4767-82f1-8d5522a413fc" alt="The Boss">
 </p>
 
 
